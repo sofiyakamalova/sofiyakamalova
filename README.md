@@ -1,4 +1,4 @@
-### Hi to everyone👋. My name is Sofiya, and I am glad to see you in my profile. 
+### Hello everybody👋. My name is Sofiya, and I am glad to see you in my profile. 
 
 <!--
 **sofiyakamalova/sofiyakamalova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
