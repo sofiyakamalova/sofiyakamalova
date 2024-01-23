@@ -4,7 +4,7 @@
 
 My name is Sofiya and  I'm from Kazakhstan🇰🇿. I'm glad to see you in my profile☺️. My speciality is Mobile Flutter Developer📱. I develop mobile applications and also create a beautiful and convenient 🎨user interface using Flutter&Dart. I really enjoy learning different programming languages. I know languages ​​such as Java, Python, Html/Css at the Beginner level.
 
-### Skills: DART / FLUTTER / JAVA / PYTHON / HTML/CSS
+### Skills: DART&FLUTTER / JAVA / PYTHON / HTML&CSS
 
 - 🌱 I’m currently learning Flutter/Dart 
 - 🎨 You can view my UI design and other works at => https://www.notion.so/Sofiya-Kamalova-2c5c3d1249be4adf897ce78c2f19ff4c?pvs=4 
