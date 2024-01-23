@@ -1,6 +1,5 @@
 # Sofiya Kamalova 🦉
 ## Mobile Flutter Developer and UI Designer
-![Mobile Development and UI Design](https://scontent.fala6-1.fna.fbcdn.net/v/t39.30808-6/419585023_248817244908262_6766073082732617290_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=3635dc&_nc_ohc=cFbPquwHGSoAX_-G8cJ&_nc_ht=scontent.fala6-1.fna&oh=00_AfAKtAiUX1kvsnKBQtjFFSqdDbW0bNSC1JiRDOUAgAMYcQ&oe=65A96DF1)
 
 My name is Sofiya and  I'm from Kazakhstan🇰🇿. I'm glad to see you in my profile☺️. My speciality is Mobile Flutter Developer📱. I develop mobile applications and also create a beautiful and convenient 🎨user interface using Flutter&Dart. I really enjoy learning different programming languages. I know languages ​​such as Java, Python, Html/Css at the Beginner level.
 
