@@ -7,6 +7,6 @@ My name is Sofiya and  I'm from Kazakhstan🇰🇿. I'm glad to see you in my pr
 
   
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30' color = 'white' >](https://www.linkedin.com/in/https://www.linkedin.com/in/софия-камалова-a4a96929b/?locale=en_US/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30' >](https://www.linkedin.com/in/https://www.linkedin.com/in/софия-камалова-a4a96929b/?locale=en_US/) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='30'>](https://t.me/sofiyakamalova)  
 
